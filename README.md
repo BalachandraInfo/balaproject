@@ -1,0 +1,2 @@
+# balaproject
+Building from scratch
